@@ -11,3 +11,8 @@ The dashboards, accessible via a resizable and draggable modal, cover key areas:
 To use the application, enter the desired number of records in the input form, click “Start Real-Time Generation,” and monitor the progress bar and data quality metrics. Dashboards appear automatically after the first generation cycle, and users can switch tabs to explore different KPIs. The “Download Datasets” button saves all datasets as CSVs, while dashboard-specific downloads are available as JPG or Excel. For large datasets (>1M rows), the application suggests using the server-side Python script. The tool’s real-time updates, quality checks, and interactive visualizations make it a powerful resource for data analysts and developers.
 
 This application is ideal for testing data pipelines, training machine learning models, or simulating business scenarios in the automotive industry. Its flexibility, combined with robust ETL and visualization features, ensures users can generate and analyze high-quality, realistic datasets efficiently.
+
+
+Visit:
+
+https://skylimittechhub.org/datasets/synthetic-datasets
